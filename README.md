@@ -2,8 +2,7 @@
 This repo is a list of solutions for the anual event caled "Advent of Code"
 
 # Organization
-
-Each folder stores the solutions for each yera available. Whenever possible there is going to be a solution in more than one languaje
+Each folder stores the solutions for each year available. Whenever possible there is going to be a solution in more than one language
 Solutions in python are showed as Jupyter notebooks.
 
 
